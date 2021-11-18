@@ -1,0 +1,255 @@
+body{
+    background-color: #181818;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 13px;
+
+    }
+    /* Modificadores De Habilidades */
+    
+
+    /* Estilos e posicoes char inicial */
+    .charname{
+        left: 470px;
+        top: 20px;
+        color: whitesmoke;
+        position: absolute;    
+    }
+    .vida{
+        left: 470px;
+        top: 65px;
+        position: absolute;
+        color:rgb(255,79,79);
+    
+    }
+    .mana{
+        left:470px;
+        top:105px;
+        position: absolute;
+        color:rgb(65,115,252)
+    }
+    .experiencia{
+        left: 470px;
+        position: absolute;
+        top: 145px;
+        color:lightgreen;
+    }
+    .armadura1{
+        position: absolute;
+        color: #9900ff;
+        top: 215px;
+        left: 470px;
+    }
+    /* Modificadores de Habilidades*/
+
+    .constituicao{
+        position: absolute;
+        left: 800px;
+        top: 20px;
+        color: whitesmoke;
+
+    }
+    .forca{
+        position: absolute;
+        left: 900px;
+        top: 20px;
+        color: whitesmoke;
+
+    }
+    .aparencia{
+        position: absolute;
+        left: 1000px;
+        top: 20px;
+        color: whitesmoke;
+
+    }
+    .intelecto{
+        position: absolute;
+        left:860px;
+        top:100px;
+        color: whitesmoke;
+
+    }
+    .destreza{
+        position: absolute;
+        left:960px;
+        top:100px;
+        color: whitesmoke;
+
+    }
+
+    .sorte{
+        position: absolute;
+        left: 800px;
+        top: 180px;
+        color: whitesmoke;
+
+    }
+    .poder{
+        position: absolute;
+        left: 900px;
+        top: 180px;
+        color: whitesmoke;
+
+    }
+    .tamanho{
+        position: absolute;
+        left: 1000px;
+        top: 180px;
+        color: whitesmoke;
+
+    }
+    .formacao{
+        position: absolute;
+        left: 900px;
+        top: 260px;
+        color: whitesmoke;
+
+    }
+
+    /* Testes de Habilidades*/
+
+    .testesdehabilidades1{
+        position: absolute;
+        color: whitesmoke;
+        left: 480px;
+        top: 345px;
+        text-align: center;
+        font-size: 40px;
+
+
+    }
+
+
+    /*115 de espaco teste inicial--> 200 to 280*/
+    .testeforca{
+        color: whitesmoke;
+        position: absolute;
+        top: 400px;
+        left: 285px;
+        font-size: 30px;
+    }
+
+    .testeintelecto{
+        color: whitesmoke;
+        position: absolute;
+        top: 400px;
+        left: 500px;
+        font-size: 30px;        
+    }
+    .testedestreza{
+        color: whitesmoke;
+        position: absolute;
+        top: 400px;
+        left: 750px;
+        font-size: 30px;        
+    }
+    .testeaparencia{
+        color: whitesmoke;
+        position: absolute;
+        top: 400px;
+        left: 1000px;
+        font-size: 30px;        
+    }
+
+    .testesdehabilidadesnames{
+        color: whitesmoke;
+        position: absolute;
+        font-size: 22px;
+    }
+
+    /* Exemplos  */
+
+    #numerosidiotas{
+        position: absolute;
+        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 25px;
+        color: yellow;
+        top: 60px;
+
+
+    }
+
+
+
+    /*Imagens */
+
+
+    .barravertical{
+        position: absolute;
+        top: 430px;
+
+    }
+
+    /* video 340     left: 200px; */
+    .livro{
+        position: absolute;
+        top: 675px;
+        left: 270px;
+        width: 390px;
+        height: auto;
+        /* scale: 0.0002;*/
+    }
+    .blacksquare1{
+        background-color: #181818;
+        width: 610px;
+        top: -100px;
+        left: -150px;
+        height: 700px;
+        position: absolute;
+    }
+    .blacksquare2{
+        position: absolute;
+        background-color: #181818;
+        width: 680px;
+        height: 500px;
+        top: 0px;
+        left: 670px;
+
+    }
+    .blacksquare3{
+        position: absolute;
+        background-color: #181818;
+        width: 300px;
+        height: 500px;
+        top: 300px;
+        left: 370px;
+
+    }
+    .blacksquare4{
+        position: absolute;
+        background-color: #181818;
+        width: 300px;
+        height: 50px;
+        top: 0px;
+        left: 370px;
+
+    }
+    .special{
+        position: absolute;
+        width: 800px;
+        height: 600px;
+        top: -147px;
+        left: 150px;
+
+
+    }
+    .moldeficha{
+        position: absolute;
+        left: 150px;
+        top: -6px;
+        width: 340px;
+        height: auto;
+    
+    }
+    .thina{
+        position: absolute;
+        width: 230px;
+        height: auto;
+        left: 200px;
+        top: 43px;
+    
+    }
+    
+    
+    
+    
